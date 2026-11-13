@@ -1,0 +1,86 @@
+# Privacy Policy for WaterSort: Color Puzzle
+
+**Effective Date:** November 13, 2026
+
+**Nexor Studio** ("we," "our," or "us") built the **WaterSort: Color Puzzle** mobile game (`com.watershort.nexorstudio`) as a Freemium / Ad-Supported game. This Service is provided by Nexor Studio and is intended for use as is.
+
+This Privacy Policy informs players regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service. By downloading and playing our game, you agree to the collection and use of information in relation to this policy.
+
+---
+
+### 1. Information Collection and Use
+
+We do not require you to create an account or provide personal details (such as your name or address) to play **WaterSort: Color Puzzle**. Your game progress, unlocked levels, and settings are stored locally on your device.
+
+However, the game uses third-party services (SDKs) that may collect device-level information used to identify your device, analyze gameplay performance, serve advertisements, and process in-app purchases.
+
+---
+
+### 2. Third-Party Services & SDKs Used
+
+We use the following trusted third-party service providers, each governed by its own Privacy Policy:
+
+* **Google Play Services:** Used for core Android system functionality and app updates.
+  * [Google Privacy & Terms](https://policies.google.com/privacy)
+* **Google AdMob (Advertising):** Used to display banner, interstitial, and rewarded video ads (e.g., for extra hints, undo moves, or bonus tubes). AdMob may collect device identifiers (Google Advertising ID), IP address, and ad interaction data.
+  * [Google AdMob Privacy Policy](https://support.google.com/admob/answer/6128543)
+* **Google Analytics for Firebase:** Used to understand gameplay engagement (e.g., level completion rates, session duration, button clicks) to improve game balance and user experience.
+  * [Firebase Privacy and Security](https://firebase.google.com/support/privacy)
+* **Firebase Crashlytics:** Used to collect crash reports, device state information, and diagnostic logs to help us identify and fix bugs quickly.
+  * [Firebase Crashlytics Terms & Privacy](https://firebase.google.com/terms/crashlytics)
+* **Firebase Cloud Messaging (FCM):** Used to send optional push notifications, daily rewards reminders, and game updates to your device using a device registration token.
+  * [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+* **Firebase Remote Config:** Used to dynamically adjust game difficulty, ad frequency, and feature flags without requiring an app store update.
+  * [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+* **RevenueCat (In-App Purchases & Subscriptions):** Used to manage in-app purchases (such as "Remove Ads", coin packs, or VIP subscriptions) securely via Google Play Billing. RevenueCat collects anonymous app user IDs, purchase receipts, currency, and locale data.
+  * [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
+
+---
+
+### 3. Log Data
+
+Whenever you play our game, in the case of an error or crash, we collect data and information (through third-party products like Firebase Crashlytics) on your device called **Log Data**. This Log Data may include information such as your device Internet Protocol ("IP") address, device model, operating system version, game configuration at the time of the crash, the time and date of your session, and other diagnostic statistics.
+
+---
+
+### 4. Device Permissions
+
+**WaterSort: Color Puzzle** requires minimal permissions:
+* **Internet & Network Access:** Required to load advertisements, verify in-app purchases, and send analytics/crash logs.
+* **Notifications (Optional):** Used to send gameplay reminders via Firebase Cloud Messaging (can be turned off anytime in your device settings).
+* **Vibration (Optional):** Used for haptic feedback during gameplay.
+
+---
+
+### 5. Data Security & Encryption
+
+All data transmitted between the game and third-party SDKs (Firebase, AdMob, RevenueCat) is **encrypted in transit using HTTPS/TLS**. While we strive to use commercially acceptable means to protect your information, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
+
+---
+
+### 6. Data Retention & Deletion Policy
+
+* **Local Game Data:** Your level progress and local preferences remain on your device until you clear the app data or uninstall the game.
+* **Requesting Data Deletion:** If you wish to request the deletion of any analytics or purchase records associated with your anonymous user/device ID, please contact us at the email below, and we will process your request within 7–14 business days.
+
+---
+
+### 7. Children’s Privacy
+
+**WaterSort: Color Puzzle** is intended for a general audience and is not directed toward children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and believe your child has provided personal information to us, please contact us immediately so we can take necessary steps to remove such information.
+
+---
+
+### 8. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted on this page.
+
+---
+
+### 9. Contact Us
+
+If you have any questions, suggestions, or data deletion requests regarding this Privacy Policy, please contact **Nexor Studio**:
+
+* **Email:** support@nexorstudio.com *(Replace with your actual support email)*
+* **Game Name:** WaterSort: Color Puzzle
+* **Package ID:** `com.watershort.nexorstudio`
